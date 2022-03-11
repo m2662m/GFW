@@ -1,10 +1,10 @@
 #  NBA app 验证网址
- - DOMAIN-SUFFIX,omtrdc.net
- - DOMAIN-SUFFIX,neulion.com
- - DOMAIN,nba-api-cdn.opin.mediawiki
- - DOMAIN-SUFFIX,nba.com
- - DOMAIN,neulionnbaovod-a.akamaihd.net
- - DOMAIN,nlnbamdnyc-a.akamaihd.net
- - DOMAIN,nbasdmt.akamaized.net
- - DOMAIN-SUFFIX,yospace.com
- - DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,neulion.com
+DOMAIN,nba-api-cdn.opin.mediawiki
+DOMAIN-SUFFIX,nba.com
+DOMAIN,neulionnbaovod-a.akamaihd.net
+DOMAIN,nlnbamdnyc-a.akamaihd.net
+DOMAIN,nbasdmt.akamaized.net
+DOMAIN-SUFFIX,yospace.com
+DOMAIN-SUFFIX,akamaized.net
