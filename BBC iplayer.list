@@ -1,8 +1,8 @@
  # 英国流媒体 BBC iplayer
- - DOMAIN-SUFFIX,bbc.co.uk
- - DOMAIN-SUFFIX,bbci.co.uk
- - DOMAIN-KEYWORD,bbcfmt
- - DOMAIN-KEYWORD,uk-live
- - DOMAIN-SUFFIX,bbc.co
- - DOMAIN-SUFFIX,bbc.com
- - DOMAIN-SUFFIX,bbci.co
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbci.co
