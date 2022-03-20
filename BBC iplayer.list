@@ -16,3 +16,13 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
+#itv
+DOMAIN,itvpnpmobile-a.akamaihd.net
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+#All4
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,channel4.com
+#MY5
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,channel4.com
