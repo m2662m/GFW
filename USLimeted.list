@@ -9,16 +9,6 @@ DOMAIN,p.typekit.net
 DOMAIN,use.typekit.net
 DOMAIN,logx.optimizely.com
 DOMAIN-KEYWORD,us1-prod-
-# Paramount+
-DOMAIN,cbsi.live.ott.irdeto.com
-DOMAIN,cbsplaylistserver.aws.syncbak.com
-DOMAIN,cbsservice.aws.syncbak.com
-DOMAIN,link.theplatform.com
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,pplusstatic.com
 # PlutoTV
 DOMAIN-SUFFIX,pluto.tv
 # Hulu
