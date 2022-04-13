@@ -1,3 +1,4 @@
+#paramount+
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
@@ -7,3 +8,8 @@ DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,pplusstatic.com
+#广告
+DOMAIN,cbsinteractive.hb.omtrdc.net
+DOMAIN,securepubads.g.doubleclick.net
+
+
