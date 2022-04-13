@@ -9,5 +9,5 @@ DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,pplusstatic.com
 #广告必备
-DOMAIN-SUFFIX,g.doubleclick.net
+DOMAIN,pubads.g.doubleclick.net
 DOMAIN,cbsinteractive.hb.omtrdc.net
