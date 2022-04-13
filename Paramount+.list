@@ -10,6 +10,6 @@ DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,pplusstatic.com
 #广告
 DOMAIN,cbsinteractive.hb.omtrdc.net
-DOMAIN,securepubads.g.doubleclick.net
+DOMAIN-SUFFIX,g.doubleclick.net
 
 
